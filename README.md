@@ -1,11 +1,22 @@
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Bangkah&theme=tokyonight)  
+<h2 align="center">📊 GitHub Insights</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=tokyonight)  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bangkah&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bangkah&theme=tokyonight&row=1&column=20)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bangkah&theme=tokyonight&row=1&column=20" alt="GitHub Trophies"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&theme=tokyonight&langs_count=100" alt="Top Languages"/>
+</p>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bangkah&theme=tokyo-night) 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bangkah&theme=tokyo-night" alt="Contribution Graph"/>
+</p>
