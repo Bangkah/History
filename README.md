@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&theme=tokyonight&langs_count=100" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&theme=tokyonight&langs_count=100&cache_seconds=1" alt="Top Languages"/>
 </p>
 
 <p align="center">
