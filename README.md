@@ -2,7 +2,7 @@
 <h2 align="center">📊 GitHub Insights</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bangkah&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Bangkah&theme=tokyonight&cache_seconds=1" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bangkah&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Bangkah&theme=tokyonight&row=1&column=7&cache_seconds=1" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
@@ -18,5 +18,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bangkah&theme=tokyo-night" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bangkah&theme=tokyo-night&cache_seconds=1" alt="Contribution Graph"/>
 </p>
