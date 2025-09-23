@@ -2,7 +2,7 @@
 <h2 align="center">📊 GitHub Insights</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bangkah&theme=tokyonight&cache_seconds=1" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Bangkah&theme=tokyonight&cache_seconds=3" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
