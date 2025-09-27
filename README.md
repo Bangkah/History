@@ -1,5 +1,7 @@
 
-<h2 align="center">📊 GitHub Insights</h2>
+<h2 align="center">📊 GitHub 
+  [![An image of @bangkah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bangkah)](https://holopin.io/@bangkah)
+  Insights</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Bangkah&theme=tokyonight&cache_seconds=3" alt="GitHub Streak"/>
