@@ -1,6 +1,5 @@
 
 <h2 align="center">📊 GitHub Insights</h2>
-  [![An image of @bangkah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bangkah)](https://holopin.io/@bangkah)
   
 
 <p align="center">
