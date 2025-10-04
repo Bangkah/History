@@ -4,7 +4,7 @@
 [![An image of @bangkah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bangkah)](https://holopin.io/@bangkah)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bangkah&theme=tokyonight&cache_seconds=3" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Bangkah&theme=tokyonight&cache_seconds=2" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
