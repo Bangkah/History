@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bangkah&theme=tokyonight&row=1&column=7&cache_seconds=3" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Bangkah&theme=tokyonight&row=1&column=8&cache_seconds=3" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
