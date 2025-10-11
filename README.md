@@ -20,5 +20,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bangkah&theme=tokyo-night&cache_seconds=1" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bangkah&theme=tokyo-night&cache_seconds=2" alt="Contribution Graph"/>
 </p>
